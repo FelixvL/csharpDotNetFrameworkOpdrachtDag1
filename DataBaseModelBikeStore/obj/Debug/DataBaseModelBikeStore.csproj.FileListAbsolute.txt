@@ -1,0 +1,11 @@
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\bin\Debug\DataBaseModelBikeStore.dll.config
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\bin\Debug\DataBaseModelBikeStore.dll
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\bin\Debug\DataBaseModelBikeStore.pdb
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\bin\Debug\EntityFramework.dll
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\bin\Debug\EntityFramework.xml
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\obj\Debug\DataBaseModelBikeStore.csprojAssemblyReference.cache
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\obj\Debug\DataBaseModelBikeStore.csproj.CopyComplete
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\obj\Debug\DataBaseModelBikeStore.dll
+C:\Users\NextProgram\source\repos\BikeStoreASPLesdag1\DataBaseModelBikeStore\obj\Debug\DataBaseModelBikeStore.pdb

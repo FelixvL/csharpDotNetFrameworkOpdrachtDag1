@@ -1,0 +1,14 @@
+﻿@using BikeStoreASPLesdag1.Models;
+@model List<ProductModel>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+De Producten
+    <table>
+        @foreach (var p in Model)
+        {
+            <tr><td>@p.Name</td><td>@p.Id</td><td>@Html.ActionLink("StoreDetails", "ShowStoresForProduct", new { productId = p.Id } )</td></tr>
+        }
+    </table>
